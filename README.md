@@ -1,1 +1,1 @@
-# cryptographer by Boris Orlov
+# cryptographer by onlycodergod, don`t be copyright this.
