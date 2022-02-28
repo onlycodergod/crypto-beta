@@ -1,2 +1,4 @@
 make API file for connect from api client
 make db
+make k8s
+make dockerfile
