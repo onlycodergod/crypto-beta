@@ -1,3 +1,6 @@
+// Copyright (c) 2022 Orlov Boris onlycodergod@gmail.com.
+// This file cryptographer_test.go is subject to the terms and
+// conditions defined in file 'LICENSE', which is part of this project source code.
 package cryptographer
 
 import (
